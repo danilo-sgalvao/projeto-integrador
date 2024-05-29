@@ -121,6 +121,10 @@ p {
     color: black;
   }
 
+  .link{
+    text-decoration: none;
+  }
+
   .barraNav{
     position: absolute;
     display: flex;
